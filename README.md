@@ -59,6 +59,13 @@ Merge and push feature and start
 
 ![image](https://user-images.githubusercontent.com/56696638/125692113-df3cf340-84ae-4147-8909-df7364eff480.png)
 
+Commit these changes to the repo into a branch called featureand Merge your feature branch to the start branch ( do not delete the feature branch)
+
+![image](https://user-images.githubusercontent.com/56696638/125693469-0ef9e14b-818d-4535-a877-59dffab3664b.png)
+
+![image](https://user-images.githubusercontent.com/56696638/125693781-00180aaf-8f99-495d-9496-978d4c7bc954.png)
+
+
 Push your final docker image to dockerhub (https://hub.docker.com/)
 
 
