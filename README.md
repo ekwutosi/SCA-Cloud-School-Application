@@ -5,11 +5,11 @@ Step 1:I created an Index.html and Dockerfile as attached in the repository
 
 Step 2:To Build the Docker image for the HTML server i used the command below: docker build -t sca-cloud-html-image .
 
-Step 3: To confirm the i used the command " docker images" to list and the output shows as below:
+Step 3: To confirm the i used the command " docker images" to list and the output shows as below
 
-Step 4:To run the docker container i used the 
+Step 4:To run the docker container i used the command 
 
-command docker run -d -p 80:80 sca-cloud-html-image
+docker run -d -p 80:80 sca-cloud-html-image
 
 ![image](https://user-images.githubusercontent.com/56696638/125689591-2d916ecc-074d-46ff-b35f-4e7c86a76053.png)
 
