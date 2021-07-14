@@ -9,4 +9,5 @@ Step 3: To confirm the i used the command " docker images" to list and the outpu
 
 Step 4:To run the docker container i used the command docker run -d -p 80:80 sca-cloud-html-image
 
-![image](https://user-images.githubusercontent.com/56696638/125689216-bca2c5c5-6c14-4aa1-9dc4-47f1afad53ae.png)
+![image](https://user-images.githubusercontent.com/56696638/125689591-2d916ecc-074d-46ff-b35f-4e7c86a76053.png)
+
