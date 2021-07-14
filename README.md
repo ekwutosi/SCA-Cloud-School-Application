@@ -20,4 +20,6 @@ docker run -d -p 80:80 sca-cloud-html-image
 ![image](https://user-images.githubusercontent.com/56696638/125690015-df08349a-8f01-4418-8a5a-f1161d9f23cc.png)
 
 Step 5:I viewed it in the browser using localhost:80
+
+
 ![image](https://user-images.githubusercontent.com/56696638/125690342-b200d94b-3d9e-449c-b2cb-ffdfa8868f7a.png)
