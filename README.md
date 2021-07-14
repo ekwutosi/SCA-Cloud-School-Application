@@ -13,8 +13,10 @@ docker run -d -p 80:80 sca-cloud-html-image
 
 ![image](https://user-images.githubusercontent.com/56696638/125689591-2d916ecc-074d-46ff-b35f-4e7c86a76053.png)
 
-Once done, run the container and test the application. Kindly Describe your test process and provide output
-The result is as follows: docker run -d -p 80:80 sca-cloud-html-image
+Once done, run the container and test the application. 
+
+docker run -d -p 80:80 sca-cloud-html-image
+
 ![image](https://user-images.githubusercontent.com/56696638/125690015-df08349a-8f01-4418-8a5a-f1161d9f23cc.png)
 
 Step 5:I viewed it in the browser using localhost:80
