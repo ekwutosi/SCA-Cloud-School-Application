@@ -23,3 +23,45 @@ Step 5:I viewed it in the browser using localhost:80
 
 
 ![image](https://user-images.githubusercontent.com/56696638/125690342-b200d94b-3d9e-449c-b2cb-ffdfa8868f7a.png)
+
+Step 6: Create a branch named Start and a folder named docker
+
+![image](https://user-images.githubusercontent.com/56696638/125690945-18db353d-c1a8-46aa-a915-f3d91e0f8d62.png)
+
+
+6: Commit your Dockerfile and other files used in the docker folder
+
+![image](https://user-images.githubusercontent.com/56696638/125691188-e9a854e9-61de-45ca-840e-1e88157c719a.png)
+
+
+Commit your Dockerfile and other files used in the docker folder
+
+![image](https://user-images.githubusercontent.com/56696638/125691288-5c6b40fb-fcdc-4b8a-9de3-e51a1008c134.png)
+
+
+Update the Dockerfile so the webpage displays Welcome to SCA Cloud School Application , this is my first assessment
+Commit these changes to the repo into a branch called featureand Merge your feature branch to the start branch ( do not delete the feature branch)
+
+
+![image](https://user-images.githubusercontent.com/56696638/125691541-72955d17-4d73-4900-8d20-5ed890d487f0.png)
+
+![image](https://user-images.githubusercontent.com/56696638/125691699-5d8b1ba5-bec5-4a24-abc6-d45bb4adee1a.png)
+
+
+Merge and push feature and start
+
+
+![image](https://user-images.githubusercontent.com/56696638/125691785-3746ee7d-95ff-4168-b906-ad5da45a8403.png)
+
+
+![image](https://user-images.githubusercontent.com/56696638/125691875-2f104bbd-d277-4a34-8ced-a1c9212d3ab1.png)
+
+
+![image](https://user-images.githubusercontent.com/56696638/125692113-df3cf340-84ae-4147-8909-df7364eff480.png)
+
+Push your final docker image to dockerhub (https://hub.docker.com/)
+
+
+![image](https://user-images.githubusercontent.com/56696638/125692254-081446fe-6ca4-4abc-bdc0-3def3d6c6a72.png)
+
+
