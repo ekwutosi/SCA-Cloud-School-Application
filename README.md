@@ -29,7 +29,7 @@ Step 6: Created a branch named Start and a folder named docker
 ![image](https://user-images.githubusercontent.com/56696638/125690945-18db353d-c1a8-46aa-a915-f3d91e0f8d62.png)
 
 
-6: I Commit my Dockerfile and other files used in the docker folder
+6: I Committed my Dockerfile and other files used in the docker folder
 
 ![image](https://user-images.githubusercontent.com/56696638/125691188-e9a854e9-61de-45ca-840e-1e88157c719a.png)
 
@@ -53,7 +53,7 @@ I updated the Dockerfile so the webpage displays Welcome to SCA Cloud School App
 
 ![image](https://user-images.githubusercontent.com/56696638/125692113-df3cf340-84ae-4147-8909-df7364eff480.png)
 
-I Commit these changes to the repo into a branch called feature and Merged feature branch to the start branch ( do not delete the feature branch)
+I Committed these changes to the repo into a branch called feature and Merged feature branch to the start branch ( do not delete the feature branch)
 
 ![image](https://user-images.githubusercontent.com/56696638/125693469-0ef9e14b-818d-4535-a877-59dffab3664b.png)
 
